@@ -26,3 +26,31 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2077111895131471874}
 
 
 
+2021-10-05 09:36:54.907659
+输入定位签到模式
+单人签到模式
+当前IP：52.224.125.243,
+
+ 美国弗吉尼亚州博伊顿Microsoft数据中心
+
+系统时间：2021-10-05 09:36:55
+UTC时间：2021-10-05 10:36:55
+北京时间：2021-10-05 17:36:55
+北京时间与系统时间误差：7:59:59.235423
+2021-10-05 09:36:55.764627:200628590213签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黎家存
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-10-05 09:37:53.700656:200628590213签到结束
+黎家存200628590213签到成功！
+SERVER发送成功："errorinvalid credential, access_token is invalid or not latest rid: 615c1cf4-63fb1531-389f3c06 atoken=49_8hojsZsn3N4dTBf-GYGCZyzCRFbNnfT1CdL-Q08kcrgIhoe4cDyQeAMZTrzejzVkyRsUza2RecQobBRkwBBvzT46LUirJCHHx7zizvJdGrdBmhkpEU5L_Cj9E4Re07QFs30oIkBobrxHtF3_LZDiA
+2021-10-05 09:37:58.953983程序结束
+######################################################################
+
+
+
+
