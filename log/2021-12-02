@@ -1,0 +1,70 @@
+2021-12-02 17:19:56.815223
+输入定位签到模式
+多人签到模式200628590213,200628590240,200628590228
+当前IP：52.173.86.167,
+
+ 美国加利福尼亚州圣克拉拉Microsoft公司
+
+系统时间：2021-12-02 17:20:02
+UTC时间：2021-12-02 17:19:57
+北京时间：2021-12-03 01:19:57
+北京时间与系统时间误差：7:59:54.962227
+2021-12-02 17:20:02.037841:200628590213签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黎家存
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.004092，28.675479，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01570837270586,"lat":28.67821278002231},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004189&lat=28.675397&sfby=1
+NAME黎家存
+定位 116.004189，28.675397，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01575539806474,"lat":28.67825352495597},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004236&lat=28.675437&sfby=1
+签到成功
+2021-12-02 17:20:42.592947:200628590213签到结束
+2021-12-02 17:20:42.707376:200628590240签到开始
+cookie文件存在
+cookie文件加载成功
+NAME朱笑雨
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.004236，28.675437，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01583421918819,"lat":28.67822023716001},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004315&lat=28.675402&sfby=1
+NAME朱笑雨
+定位 116.004315，28.675402，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01587420225737,"lat":28.678238333459697},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004355&lat=28.675419&sfby=1
+签到成功
+2021-12-02 17:21:07.191625:200628590240签到结束
+2021-12-02 17:21:07.311996:200628590228签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐飞凤
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.004355，28.675419，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01589318412747,"lat":28.678322791618514},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004374&lat=28.675503&sfby=1
+NAME徐飞凤
+定位 116.004374，28.675503，江西省南昌市昌东镇(南昌高新开发区)紫阳大道338号
+{"status":0,"result":{"location":{"lng":116.01595615467476,"lat":28.678377123578323},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%28%E5%8D%97%E6%98%8C%E9%AB%98%E6%96%B0%E5%BC%80%E5%8F%91%E5%8C%BA%29%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93338%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.004437&lat=28.675556&sfby=1
+签到成功
+2021-12-02 17:21:21.726390:200628590228签到结束
+3人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2162137106658148352}
+2021-12-02 17:21:25.785289程序结束
+######################################################################
+
+
+
+
